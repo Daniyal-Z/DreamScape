@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Images/icon1.png</file>
+        <file>Images/icon2.png</file>
+        <file>Images/icon4.png</file>
+        <file>Images/icon5.png</file>
+        <file>Images/icon6.png</file>
+        <file>Images/icon7.png</file>
+        <file>Images/icon8.png</file>
+        <file>Images/iconSpecial.png</file>
+        <file>Images/icon3.png</file>
+        <file>Images/back_i.png</file>
+        <file>Images/back_p.png</file>
+        <file>Images/forward_i.png</file>
+        <file>Images/forward_p.png</file>
+        <file>Images/play_i.png</file>
+        <file>Images/play_p.png</file>
+        <file>Images/repeat_i.png</file>
+        <file>Images/repeat_p.png</file>
+        <file>Images/shuffle_i.png</file>
+        <file>Images/shuffle_p.png</file>
+    </qresource>
+</RCC>
